@@ -3,6 +3,7 @@
 ## 🚀 Live Demo
 
 👉 [Open the Flight Delay Prediction App](https://flightdelayprediction-bmywou7rttg5rh35zbfzxh.streamlit.app/)
+
 A machine learning-based web application that predicts whether a flight is likely to be delayed based on flight-related information.
 
 The application uses a trained **Random Forest Classification model** along with a Spark ML feature preprocessing pipeline. Users can enter flight details through an interactive Streamlit interface and receive a prediction along with the estimated probability of delay.
